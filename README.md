@@ -3,10 +3,10 @@ Refresh your IP and DNS cache with this tool!
 
 ### Functions
 
-Updates the DNS cache.
+_**Updates the DNS cache.**_
 
-Obtains a new IP address to use on the local network.
+_**Obtains a new IP address to use on the local network.**_
 
-Clears DNS cache.
+_**Clears DNS cache.**_
 
                          made by ardaflix.
