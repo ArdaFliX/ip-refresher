@@ -15,4 +15,7 @@ _**Clears DNS cache.**_
 ### Download
 **https://github.com/ArdaFliX/ip-refresher/releases/tag/ip-refresher**
 
+**Click to the "release.zip" to download the latest version.**
+
+
 
